@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Application model
-
-This is for application model
-"""
 from flask import Flask, render_template, redirect, url_for, make_response, request
 
 app = Flask(__name__)
